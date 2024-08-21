@@ -93,6 +93,9 @@ DATABASES = {
     }
 }
 
+CSRF_TRUSTED_ORIGINS = [
+    'https://8000-mrmarlonm-drfapi-rf7yytnqii0.ws.codeinstitute-ide.net',  # Your development origin
+]
 
 # Password validation
 # https://docs.djangoproject.com/en/3.2/ref/settings/#auth-password-validators
