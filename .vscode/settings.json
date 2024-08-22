@@ -18,4 +18,5 @@
    "cSpell.words": [
       "CLOUDINARY"
    ],
+   "python.REPL.enableREPLSmartSend": false,
 }
