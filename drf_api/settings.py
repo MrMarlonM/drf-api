@@ -61,7 +61,7 @@ DEBUG = 'DEV' in os.environ
 
 ALLOWED_HOSTS = [
     '8000-mrmarlonm-drfapi-rf7yytnqii0.ws.codeinstitute-ide.net',
-    'react-backend.herokuapp.com',
+    'react-backend-1102dd957763.herokuapp.com',
     ]
 
 
